@@ -1,6 +1,5 @@
 Olá, me chamo Rodrigo!👋
 
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <!--
 **Spyke27/Spyke27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
