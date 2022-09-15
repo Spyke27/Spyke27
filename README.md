@@ -35,6 +35,6 @@ Olá, me chamo Rodrigo!👋
 </div>
   <br>
   <br>
-   ![Snake animation](https://github.com/Spyke27/Spyke27/blob/output/github-contribution-grid-snake.svg)
+   <div>![Snake animation](https://github.com/Spyke27/Spyke27/blob/output/github-contribution-grid-snake.svg)</div>
  
 
