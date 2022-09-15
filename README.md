@@ -33,6 +33,8 @@ Olá, me chamo Rodrigo!👋
 <a href="https://www.instagram.com/rodrigodaniel_27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rodrigoeufrasio2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+  <br>
+  <br>
   ![Snake animation](https://github.com/Spyke27/Spyke27/blob/output/github-contribution-grid-snake.svg)
  
 
