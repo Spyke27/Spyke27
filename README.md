@@ -1,4 +1,5 @@
 <h1 align="center">Hello, World!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
 Me chamo Rodrigo!👋
 
 <p>📚- Cursando Análise de Sistemas na Uninter(Centro Universitário Internacional)</p>
@@ -14,6 +15,7 @@ Me chamo Rodrigo!👋
 <img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 </h4>
 <br>
+<!--//Imagem AVATAR <img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">-->
 <div>
 <a href="https://github.com/Spyke27">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyke27&layout=compact&langs_count=7&theme=dracula"/>
