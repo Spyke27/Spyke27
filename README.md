@@ -14,7 +14,7 @@ Olá, eu me chamo Rodrigo!👋<br><br>
 <img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 </h4>
 <br>
-<img src="" width="30%" height="30%" align="right">
+<!--<img src="" width="30%" height="30%" align="right">-->
 <div>
 <a href="https://github.com/Spyke27">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyke27&layout=compact&langs_count=7&theme=highcontrast"/>
