@@ -1,11 +1,10 @@
 <h1 align="center">Hello, World!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
-Me chamo Rodrigo!👋
+Olá, eu me chamo Rodrigo!👋<br><br>
+
 
 <p>📚- Cursando Análise de Sistemas na Uninter(Centro Universitário Internacional)</p>
 <p>📘- Atualmente estudando JavaScript e seus Frameworks</p>
-<p>🎯- Focado em me formar FullStack Web</p>
-<p>🚀- Sempre em constante evolução</p>
 <p>🏡- Moro no Rio de Janeiro, RJ</p>
 <p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
 <p>🐱- Apaixonado por Gatos</p>
@@ -15,11 +14,11 @@ Me chamo Rodrigo!👋
 <img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 </h4>
 <br>
-<!--//Imagem AVATAR <img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">-->
+<img src="" width="30%" height="30%" align="right">
 <div>
 <a href="https://github.com/Spyke27">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyke27&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spyke27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyke27&layout=compact&langs_count=7&theme=highcontrast"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spyke27&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <div  align="center"> 
