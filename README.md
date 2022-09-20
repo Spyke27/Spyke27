@@ -12,7 +12,7 @@ Olá, eu me chamo Rodrigo!👋<br><br>
 <br>
 <h4 align="center">
 
-<img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img height="400px" width="100%" src="https://i.imgur.com/iFruj2Y.gif">
 </h4>
 <br>
 <!--<img src="" width="30%" height="30%" align="right">-->
