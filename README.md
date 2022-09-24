@@ -11,12 +11,14 @@ Olá, eu me chamo Rodrigo! 🌝<br>
 <p>🐱- Apaixonado por Gatos</p>
 <br>
 <h4 align="center">
-
 <img height="400px" width="100%" src="https://i.imgur.com/iFruj2Y.gif">
 </h4>
 <br>
 <!--<img src="" width="30%" height="30%" align="right">-->
 <div>
+
+<!--Para quem for reutilizar o código abaixo, é só trocar o nome de usuário para o seu 😉✌🏼-->
+
 <a href="https://github.com/Spyke27">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Spyke27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyke27&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -28,11 +30,11 @@ Olá, eu me chamo Rodrigo! 🌝<br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=102&color=currentColor">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=102&color=currentColor">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=102&color=currentColor">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=102&color=currentColor">
-  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=102&color=currentColor">
+  <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=102&color=currentColor">
+  <img align="center" alt="NODEJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=102&color=currentColor">
+  <img align="center" alt="REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=102&color=currentColor">
+  <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=102&color=currentColor">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=102&color=currentColor">
 </div>
  <br>
   <div align="center">
