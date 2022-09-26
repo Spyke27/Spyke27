@@ -46,7 +46,6 @@ Olá, eu me chamo Rodrigo! 🌝<br>
   <br>
   <br>
   <div align="center">
-<!--Codigo da cobrinha-->
   ![Snake animation](https://github.com/Spyke27/Spyke27/blob/output/github-contribution-grid-snake.svg)
 </div>
  
