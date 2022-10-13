@@ -5,7 +5,7 @@ Olá, eu me chamo Rodrigo! 😁<br>
 
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right"> 
 <br><br><br>
-<p>📚- Cursando Análise de Sistemas na Uninter(Centro Universitário Internacional)</p>
+<p>📚- ursando Análise de Sistemas na Uninter(Centro Universitário Internacional)</p>
 <p>📘- Atualmente estudando JavaScript e seus Frameworks</p>
 <p>🏡- Moro no Rio de Janeiro, RJ</p>
 <p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
