@@ -18,7 +18,7 @@ Olá, eu me chamo Rodrigo! 😁<br>
 <br>
 
 <div>
-<!--Para quem for reutilizar o código abaixo, é só trocar o nome de usuário para o seu 😉✌🏼-->
+<!--Para quem for reutilizar o código abaixo, é só trocar o nome de usuário para o seu! 😉✌🏼-->
 
 <a href="https://github.com/Spyke27">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Spyke27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
