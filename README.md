@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
 Olá, eu me chamo Rodrigo! 😁<br>
 
-<img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando...">
+<img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
 
 <br>
 <p>📚- Cursando Análise e Desenvolvimento de Sistemas na Uninter(Centro Universitário Internacional)</p>
