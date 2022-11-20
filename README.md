@@ -21,13 +21,13 @@ Olá, eu me chamo Rodrigo! 😁<br>
 </h4>
 <br>
 
-<div>
-<!--Para quem for reutilizar o código abaixo, é só trocar o nome de usuário para o seu! 😉✌🏼-->
+  <p align="center">
 
-<a href="https://github.com/Spyke27">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spyke27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyke27&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spyke27&theme=2077) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spyke27&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spyke27&theme=2077)
+</p>
+  
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
