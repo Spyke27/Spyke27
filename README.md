@@ -8,11 +8,13 @@ Olá, eu me chamo Rodrigo! 😁<br>
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
 
 <br>
-<p>📚- Cursando Análise e Desenvolvimento de Sistemas na Uninter(Centro Universitário Internacional)</p>
-<p>📘- Atualmente estudando JavaScript e seus Frameworks</p>
-<p>🏡- Moro no Rio de Janeiro, RJ</p>
+<p>📚- Cursando Análise e Desenvolvimento de Sistemas na Uninter(Centro Universitário Internacional).</p>
+<p>👨🏼‍💻- Atualmente estudando JavaScript e seus Frameworks no Bootcamp da Generation.</p>
+<p>🎓- Ambas formaturas no final de 2022.</p>
+<p>🎯- Cursos concluídos: b7web , origamid, cod3r.</p>
+<p>🏡- Moro no Rio de Janeiro, RJ.</p>
 <p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
-<p>🐱- Apaixonado por Gatos</p>
+<p>🐱- Apaixonado por Gatos.</p>
 <br>
 <h4 align="center">
 <img height="400px" width="100%" src="https://i.imgur.com/iFruj2Y.gif" alt="Imagem Central">
