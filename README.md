@@ -23,7 +23,7 @@ Olá, eu me chamo Rodrigo! 😁<br>
 
   <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spyke27&theme=2077) 
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spyke27&theme=2077) --> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spyke27&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spyke27&theme=2077)
 </p>
@@ -32,7 +32,7 @@ Olá, eu me chamo Rodrigo! 😁<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <h3>Ferramentas & Tecnologias</h3>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
