@@ -4,14 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
 Olá, eu me chamo Rodrigo! 😁<br>
 
-
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
 
 <br>
 <p>📚- Cursando Análise e Desenvolvimento de Sistemas na Uninter(Centro Universitário Internacional).</p>
 <p>👨🏼‍💻- Atualmente estudando JavaScript e seus Frameworks no Bootcamp da Generation.</p>
 <p>🎓- Ambas formaturas no final de 2022.</p>
-<p>🎯- Cursos concluídos: b7web , origamid, cod3r.</p>
+<p>🎯- Cursos concluídos: b7web , Origamid, Cod3r.</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
 <p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
 <p>🐱- Apaixonado por Gatos.</p>
