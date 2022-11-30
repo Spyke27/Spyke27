@@ -20,7 +20,6 @@ Olá, eu me chamo Rodrigo! 😁<br>
 <br>
 
   <p align="center">
-
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spyke27&theme=2077) --> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spyke27&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spyke27&theme=2077)
