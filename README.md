@@ -7,8 +7,7 @@ Olá, eu me chamo Rodrigo! 😁<br>
 
 <br>
 <p>📚- Cursando Análise e Desenvolvimento de Sistemas na Uninter(Centro Universitário Internacional).</p>
-<p>👨🏼‍💻- Atualmente estudando JavaScript e seus Frameworks no Bootcamp da Generation.</p>
-<p>🎓- Ambas formaturas no final de 2022.</p>
+<p>👨🏼‍💻- Atualmente estudando JavaScript com seus Frameworks e bibliotecas, no Bootcamp da Generation.</p>
 <p>🎯- Cursos concluídos: b7web , Origamid, Cod3r.</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
 <p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
