@@ -4,7 +4,6 @@
 Olá, eu me chamo Rodrigo! 😁<br>
 
 
-
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
 
 <br>
