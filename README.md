@@ -19,7 +19,7 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
 <p>🐱- Apaixonado por Gatos.</p>
 <br>
 <h4 align="center">
-<img height="400px" width="100%" src="https://i.imgur.com/iFruj2Y.gif" alt="Imagem Central">
+<img height="400px" width="100%" src="https://i.imgur.com/mTsE1r9.gif" alt="Imagem Central">
 </h4>
 <br>
 
