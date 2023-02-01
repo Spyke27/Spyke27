@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
 Olá, eu me chamo Rodrigo! 😁<br><br>
 
-<p>Clique para ver meu <a target="_blank" href="https://my-portifolio-rodrigo-daniel.netlify.app">Portfólio</a>!</p>
+<p>Clique para ver meu <a target="_blank" href="https://my-portfolio-rodrigo-daniel.netlify.app">Portfólio</a>!</p>
 
 
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
