@@ -7,7 +7,6 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
 
 <p>Clique para ver meu <a target="_blank" href="https://my-portfolio-rodrigo-daniel.netlify.app">Portfólio!</a></p>
 
-
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
 
 <br>
