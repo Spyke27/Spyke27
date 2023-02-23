@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! 👋🏼</h1>
 
-<!-- -->
+<!-- Comentários -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
 Olá, eu me chamo Rodrigo! 😁<br><br>
