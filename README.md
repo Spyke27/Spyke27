@@ -10,7 +10,8 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
 
 <br>
-<p>📚- Cursando Análise e Desenvolvimento de Sistemas na UNINTER.</p>
+<p>🎓- Análise e Desenvolvimento de Sistemas pela UNINTER.</p>
+<p>📚- Atualmente estudando Java.</p>
 <p>👨🏼‍💻- Formado como Fullstack Javascript pelo Bootcamp da Generation.</p>
 <p>🎯- Cursos concluídos: b7web , Origamid, Cod3r.</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
