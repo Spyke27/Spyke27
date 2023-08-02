@@ -10,10 +10,10 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
 
 <br>
-<p>🎓- Análise e Desenvolvimento de Sistemas pela UNINTER.</p>
+<p>🎓- Análise e Desenvolvimento de Sistemas.</p>
 <p>📚- Atualmente estudando Java.</p>
+<p>🎯- Bootcamp Backend da CubosAcademy.</p>
 <p>👨🏼‍💻- Formado como Fullstack Javascript pelo Bootcamp da Generation.</p>
-<p>🎯- Cursos concluídos: b7web , Origamid, Cod3r.</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
 <p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
 <p>🐱- Apaixonado por Gatos.</p>
@@ -26,7 +26,7 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
   <p align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spyke27&theme=2077) 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spyke27&theme=2077) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spyke27&theme=2077)
 </p>
   
 
@@ -56,7 +56,7 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
   <br>
   <div align="center">
 
-  ![Snake animation](https://github.com/Spyke27/Spyke27/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/Spyke27/Spyke27/blob/output/github-contribution-grid-snake.svg)-->
 
 </div>
  
