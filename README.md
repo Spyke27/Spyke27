@@ -35,14 +35,16 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
   <div style="display: inline_block"><br>
   <h3>Ferramentas & Tecnologias</h3>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">
+  <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=102&color=currentColor">
+  <img align="center" alt="NODEJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=102&color=currentColor">
+  <img align="center" alt="REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=102&color=currentColor">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=102&color=currentColor">
-  <img align="center" alt="NODEJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=102&color=currentColor">
-  <img align="center" alt="REACT" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=102&color=currentColor">
-  <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=102&color=currentColor">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=102&color=currentColor">
+  <img align="center" alt="MySQL" height="50" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=102&color=currentColor">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=148&color=currentColor">
 
 </div>
  <br>
