@@ -12,7 +12,7 @@ Olá, eu me chamo Rodrigo! 😁<br><br>
 <br>
 <p>🎓- Análise e Desenvolvimento de Sistemas.</p>
 <p>📚- Atualmente estudando Java.</p>
-<p>🎯- Bootcamp Backend da CubosAcademy.</p>
+<p>🎯- Bootcamp Back-end da CubosAcademy.</p>
 <p>👨🏼‍💻- Formado como Fullstack Javascript pelo Bootcamp da Generation.</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
 <p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
