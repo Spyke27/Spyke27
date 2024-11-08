@@ -5,22 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spyke27&label=Profile%20views&color=0e75b6&style=flat" alt="Spyke27" /></p>
 Olá, eu me chamo Rodrigo! 😁<br><br>
 
-<p>Clique para ver meu <a target="_blank" href="https://my-portfolio-rodrigo-daniel.netlify.app">Portfólio!</a></p>
+<p>👨🏼‍💻 - Analista Desenvolvedor. Clique para ver meu <a target="_blank" href="https://my-portfolio-rodrigo-daniel.netlify.app">Portfólio!</a></p>
 
 <img src="https://i.imgur.com/ZpD0jjL.gif" width="30%" height="30%" align="right" alt="Gif Gato Digitando.">
-
 <br>
-<p>🎓- Análise e Desenvolvimento de Sistemas.</p>
-<p>📚- Atualmente estudando Java.</p>
-<p>🎯- Bootcamp Back-end da CubosAcademy.</p>
-<p>👨🏼‍💻- Formado como Fullstack Javascript pelo Bootcamp da Generation.</p>
-<p>🏡- Moro no Rio de Janeiro, RJ.</p>
-<p>🧩- Meus hobbies são:⚽Jogar bola;🎨Desenhar;🎮Video-game.</p>
-<p>🐱- Apaixonado por Gatos.</p>
-<br>
-<h4 align="center">
-<img height="400px" width="100%" src="https://i.imgur.com/mTsE1r9.gif" alt="Imagem Central">
-</h4>
+<div align="center">
+  <img height="400px" width="100%" src="https://i.imgur.com/mTsE1r9.gif" alt="Imagem Central">
+</div>
 <br>
 
   <p align="center">
